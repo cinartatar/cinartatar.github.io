@@ -1,0 +1,17 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}
+.solid {
+    border-top: 2px solid #000000;
+    margin-top: 23%;
+}
+
+.social-media-icons {
+    margin-left: 46.5%;
+}
